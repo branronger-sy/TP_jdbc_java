@@ -216,7 +216,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 🙏 Acknowledgments
 
 - This project was created as a practical exercise for learning Java Collections and JDBC
-- Special thanks to the Java community for excellent documentation and resources
+- Special thanks to our supervisor Mr Elmahdi Erraji for giving us the chance to practice JDBC.
+- Special thanks to the Java community for excellent documentation and resources.
 
 ---
 
